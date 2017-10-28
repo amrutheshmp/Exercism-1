@@ -1,2 +1,2 @@
 # Exercism
-Solution for Exercism Problem
+Solution for Exercism Problems.
